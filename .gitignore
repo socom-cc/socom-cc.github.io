@@ -1,0 +1,5 @@
+# Local dev tests. This should be removed in the future.
+test/
+
+# Visual Studio Code.
+.vscode/
